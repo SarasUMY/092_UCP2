@@ -1,4 +1,4 @@
-package com.example.a092_ucp2
+package com.example.Pertemuan9
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.a092_ucp2.ui.theme._092_UCP2Theme
+import com.example.Pertemuan9.ui.theme._092_UCP2Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
